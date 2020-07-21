@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "288899066932",
+    "firebase_url": "https://appivnentoryproject.firebaseio.com",
+    "project_id": "appivnentoryproject",
+    "storage_bucket": "appivnentoryproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288899066932:android:3790f57b0307cbe7852e61",
+        "android_client_info": {
+          "package_name": "com.gts.cakrainventorybeta2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288899066932-k2b65u6nfnp4ho6bprgtp5orearpbmiv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gts.cakrainventorybeta2",
+            "certificate_hash": "b2ab3c6acd32e0e2dea4c4b17fe29531684064e7"
+          }
+        },
+        {
+          "client_id": "288899066932-ddbt4isc9socga4fel13cl3tmp20of6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_YHH7YzI161T0ImZfknRghkIbwHKglpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288899066932-ddbt4isc9socga4fel13cl3tmp20of6o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
